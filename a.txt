@@ -4,3 +4,4 @@
 4
 master
 win10
+mac
